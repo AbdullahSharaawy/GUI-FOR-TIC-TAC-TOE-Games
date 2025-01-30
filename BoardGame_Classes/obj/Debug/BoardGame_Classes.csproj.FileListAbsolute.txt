@@ -1,0 +1,6 @@
+D:\Assigment2\SeriesTicTacToe\BoardGame_Classes\bin\Debug\BoardGame_Classes.dll
+D:\Assigment2\SeriesTicTacToe\BoardGame_Classes\bin\Debug\BoardGame_Classes.pdb
+D:\Assigment2\SeriesTicTacToe\BoardGame_Classes\obj\Debug\BoardGame_Classes.csproj.AssemblyReference.cache
+D:\Assigment2\SeriesTicTacToe\BoardGame_Classes\obj\Debug\BoardGame_Classes.csproj.CoreCompileInputs.cache
+D:\Assigment2\SeriesTicTacToe\BoardGame_Classes\obj\Debug\BoardGame_Classes.dll
+D:\Assigment2\SeriesTicTacToe\BoardGame_Classes\obj\Debug\BoardGame_Classes.pdb
